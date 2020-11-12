@@ -83,3 +83,4 @@ production:
   database: nginx_production
   username: nginx
   password: <%= ENV['NGINX_DATABASE_PASSWORD'] %>
+  
